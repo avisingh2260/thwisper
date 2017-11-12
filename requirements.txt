@@ -1,0 +1,9 @@
+Django==1.6.5
+pygal==1.5.0
+pymongo==2.8.0
+cloudant==2.0.0a1
+twitter==1.14.3
+dj-database-url==0.3.0
+django-cors-headers==1.0.0
+xlwt==1.0.0
+requests==2.7.0

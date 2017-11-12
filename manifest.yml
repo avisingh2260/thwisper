@@ -1,0 +1,6 @@
+applications:
+- name: twhisper
+  memory: 1024M
+  command: python manage.py runserver
+  buildpack: https://github.com/cloudfoundry/cf-buildpack-python.git#v1.5.1
+  path: .  
